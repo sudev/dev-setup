@@ -3,6 +3,7 @@ brew update
 brew tap caskroom/cask
 brew install brew-cask
 brew tap caskroom/cask
-brew cask install java
+brew tap caskroom/versions
+brew cask install java8
 brew install sbt 
 brew install scala
